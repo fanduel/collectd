@@ -1,0 +1,26 @@
+collectd (5.4.1) precise; urgency=low
+
+  * Updates source files to version 5.4.1 
+
+ -- root <root@dev-package-builder2.east.fdbox.net>  Wed, 12 Mar 2014 07:20:04 -0800
+
+collectd (5.1.0-3) precise; urgency=low
+
+  * Add nginx plugin support
+
+ -- Joey Imbasciano <joey@kinvey.com>  Wed, 26 Sep 2012 11:42:17 -0400
+
+collectd (5.1.0-2) precise; urgency=low
+
+  * Fix build-deps
+
+ -- Joey Imbasciano <joey@kinvey.com>  Tue, 25 Sep 2012 11:45:17 -0400
+
+collectd (5.1.0-1) precise; urgency=low
+
+  * Initial release
+  * Add Upstart Script
+  * Enable python bindings
+  * Enable yajl bindings
+
+ -- Joey Imbasciano <joey@kinvey.com>  Sun, 23 Sep 2012 01:35:17 +0000
